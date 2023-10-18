@@ -669,11 +669,11 @@ img {
 }
 
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 24px;
 }
 
 .modal-field-check {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .modal-input-wrap {
