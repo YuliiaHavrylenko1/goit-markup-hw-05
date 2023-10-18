@@ -669,20 +669,21 @@ img {
 }
 
 .modal-field {
-  margin-bottom: 24px;
+  margin-bottom: 8px;
 }
 
 .modal-input-wrap {
   position: relative;
+  margin-bottom: 16px;
 }
 
 .modal-input:hover:focus {
   border-color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .modal-input:hover:focus + .modal-icon {
   border-color: #4d5ae5;
-  fill: #4d5ae5;
 }
 
 .modal-input {
