@@ -669,7 +669,11 @@ img {
 }
 
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+.modal-field-check {
+  margin-bottom: 24px;
 }
 
 .modal-input-wrap {
@@ -751,7 +755,7 @@ img {
   font-size: 14px;
 }
 
-.modal-text:hover:focus {
+.modal-text:focus {
   border-color: #4d5ae5;
 }
 
@@ -768,7 +772,7 @@ img {
   letter-spacing: 0.04em;
   display: flex;
   align-items: center;
-  margin-top: 16px;
+
   line-height: 1.17;
 }
 
