@@ -673,12 +673,12 @@ img {
 }
 
 .modal-field-check {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 
 .modal-input-wrap {
   position: relative;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .modal-input:focus {
